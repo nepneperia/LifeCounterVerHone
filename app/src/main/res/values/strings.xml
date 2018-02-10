@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LifeCounterVerHone</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="default_life">20</string>
+</resources>
